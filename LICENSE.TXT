@@ -1,21 +1,32 @@
-MIT License
+СОГЛАШЕНИЕ О ЗАКРЫТОМ ИСПОЛЬЗОВАНИИ И АВТОРСКИХ ПРАВАХ (LICENSE)
 
-Copyright (c) 2017-2026 Space Wizards Federation
+Copyright (c) [2026] [Mirka-l / Irish Station]. Все права защищены.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. УСЛОВИЯ ЛИЦЕНЗИИ И ЗАПРЕТ НА ИСПОЛЬЗОВАНИЕ
+Начиная с 10.11.2026, весь существующий код, а также
+любой код, добавленный в данный репозиторий в рамках последующих коммитов,
+является закрытым и конфиденциальным.
+Использование, копирование, изменение, объединение, публикация, распространение,
+сублицензирование и/или продажа копий внесенных изменений любыми третьими лицами
+полностью ЗАПРЕЩЕНЫ.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. ИСКЛЮЧЕНИЯ ДЛЯ АВТОРОВ (КОНТРИБЬЮТОРОВ)
+Ограничения, указанные в Пункте 1, не распространяются на автора (контрибьютора)
+конкретного участка кода, который внес (закоммитил) данный код в этот репозиторий.
+Каждый автор сохраняет за собой исключительные авторские права на свой собственный
+внесенный код и имеет право использовать его без ограничений вне данного репозитория.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. ПРАВОВОЙ СТАТУС КОДА В РЕПОЗИТОРИИ
+Несмотря на права авторов, предусмотренные Пунктом 2, любой код, внесенный в
+данный репозиторий, автоматически подпадает под действие настоящей лицензии в
+рамках этого проекта. Это означает, что:
+а) Код остается неотъемлемой частью данного репозитория и проекта;
+б) Код является нераспространяемым (Non-distributable) для третьих лиц;
+в) Ни один из авторов не имеет права распространять чужие участки кода или весь проект целиком
+   без явного письменного согласия владельца репозитория.
+
+4. ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ
+ДАННЫЙ ПРОЕКТ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ,
+ВЫРАЖЕННЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ. АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НИ ПРИ КАКИХ
+ОБСТОЯТЕЛЬСТВАХ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ПО ЛЮБЫМ ИСКАМ О НАДЛЕЖАЩЕМ ИЛИ НЕ
+НАДЛЕЖАЩЕМ ИСПОЛЬЗОВАНИИ ДАННОГО КОДА.
